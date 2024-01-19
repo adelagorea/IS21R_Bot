@@ -1,1 +1,1 @@
-uroki otstoi
+Ciobanu Daniel
