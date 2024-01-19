@@ -1,0 +1,5 @@
+a = ('oceni')
+b = ('hocu')
+c = ('domoi')
+print (a+b+c)
+print ('mojno???')
