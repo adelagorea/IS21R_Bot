@@ -1,1 +1,4 @@
 uroki otstoi
+vse
+voobshe
+
